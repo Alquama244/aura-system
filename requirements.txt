@@ -1,0 +1,8 @@
+﻿streamlit
+ultralytics
+google-genai
+python-dotenv
+pandas
+openpyxl
+reportlab
+Pillow
